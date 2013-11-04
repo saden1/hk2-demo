@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+# IDE Files
+nb-configuration.xml
+
+/hk2-runlevel/target/
